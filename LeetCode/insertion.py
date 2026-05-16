@@ -8,7 +8,7 @@ elements are smaller than target to determine the insertion position.
 """
 
 class Solution:
-    def searchInsert(self, nums: List[int], target: int) -> int:
+    def searchInsert(self, nums: list[int], target: int) -> int:
         count = 0
         if target in nums:
             return nums.index(target)  # Return index if target exists
