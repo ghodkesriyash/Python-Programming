@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ghodkesriyash/Python-Programming/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ghodkesriyash/Python-Programming/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/ghodkesriyash/Python-Programming/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/ghodkesriyash/Python-Programming/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ghodkesriyash/Python-Programming/tree/master/0074-search-a-2d-matrix) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ghodkesriyash/Python-Programming/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/ghodkesriyash/Python-Programming/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ghodkesriyash/Python-Programming/tree/master/0283-move-zeroes) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ghodkesriyash/Python-Programming/tree/master/0011-container-with-most-water) |
 | [1833-maximum-ice-cream-bars](https://github.com/ghodkesriyash/Python-Programming/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/ghodkesriyash/Python-Programming/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ghodkesriyash/Python-Programming/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
