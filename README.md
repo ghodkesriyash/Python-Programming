@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ghodkesriyash/Python-Programming/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ghodkesriyash/Python-Programming/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/ghodkesriyash/Python-Programming/tree/master/1470-shuffle-the-array) |
+| [1929-concatenation-of-array](https://github.com/ghodkesriyash/Python-Programming/tree/master/1929-concatenation-of-array) |
 | [2126-destroying-asteroids](https://github.com/ghodkesriyash/Python-Programming/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ghodkesriyash/Python-Programming/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ghodkesriyash/Python-Programming/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ghodkesriyash/Python-Programming/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/ghodkesriyash/Python-Programming/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
