@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ghodkesriyash/Python-Programming/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ghodkesriyash/Python-Programming/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0268-missing-number) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/ghodkesriyash/Python-Programming/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ghodkesriyash/Python-Programming/tree/master/0049-group-anagrams) |
 | [0520-detect-capital](https://github.com/ghodkesriyash/Python-Programming/tree/master/0520-detect-capital) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/ghodkesriyash/Python-Programming/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/ghodkesriyash/Python-Programming/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Sliding Window
 |  |
 | ------- |
