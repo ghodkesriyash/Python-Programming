@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ghodkesriyash/Python-Programming/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ghodkesriyash/Python-Programming/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ghodkesriyash/Python-Programming/tree/master/0283-move-zeroes) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ghodkesriyash/Python-Programming/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ghodkesriyash/Python-Programming/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0268-missing-number) |
 | [2126-destroying-asteroids](https://github.com/ghodkesriyash/Python-Programming/tree/master/2126-destroying-asteroids) |
@@ -42,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ghodkesriyash/Python-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/ghodkesriyash/Python-Programming/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ghodkesriyash/Python-Programming/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ghodkesriyash/Python-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/ghodkesriyash/Python-Programming/tree/master/0049-group-anagrams) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/ghodkesriyash/Python-Programming/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Sliding Window
 |  |
