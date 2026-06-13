@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ghodkesriyash/Python-Programming/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/ghodkesriyash/Python-Programming/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ghodkesriyash/Python-Programming/tree/master/0075-sort-colors) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ghodkesriyash/Python-Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ghodkesriyash/Python-Programming/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ghodkesriyash/Python-Programming/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ghodkesriyash/Python-Programming/tree/master/0240-search-a-2d-matrix-ii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ghodkesriyash/Python-Programming/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ghodkesriyash/Python-Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ghodkesriyash/Python-Programming/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ghodkesriyash/Python-Programming/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0268-missing-number) |
