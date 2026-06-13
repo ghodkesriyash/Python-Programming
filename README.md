@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ghodkesriyash/Python-Programming/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ghodkesriyash/Python-Programming/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ghodkesriyash/Python-Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ghodkesriyash/Python-Programming/tree/master/0162-find-peak-element) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ghodkesriyash/Python-Programming/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/ghodkesriyash/Python-Programming/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ghodkesriyash/Python-Programming/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/ghodkesriyash/Python-Programming/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/ghodkesriyash/Python-Programming/tree/master/0504-base-7) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ghodkesriyash/Python-Programming/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
