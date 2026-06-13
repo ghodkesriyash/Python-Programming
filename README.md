@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ghodkesriyash/Python-Programming/tree/master/0485-max-consecutive-ones) |
 | [1306-jump-game-iii](https://github.com/ghodkesriyash/Python-Programming/tree/master/1306-jump-game-iii) |
 | [1470-shuffle-the-array](https://github.com/ghodkesriyash/Python-Programming/tree/master/1470-shuffle-the-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/ghodkesriyash/Python-Programming/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/ghodkesriyash/Python-Programming/tree/master/1929-concatenation-of-array) |
 | [2126-destroying-asteroids](https://github.com/ghodkesriyash/Python-Programming/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ghodkesriyash/Python-Programming/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/ghodkesriyash/Python-Programming/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/ghodkesriyash/Python-Programming/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ghodkesriyash/Python-Programming/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ghodkesriyash/Python-Programming/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ghodkesriyash/Python-Programming/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ghodkesriyash/Python-Programming/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0268-missing-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/ghodkesriyash/Python-Programming/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/ghodkesriyash/Python-Programming/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ghodkesriyash/Python-Programming/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ghodkesriyash/Python-Programming/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ghodkesriyash/Python-Programming/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/ghodkesriyash/Python-Programming/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
