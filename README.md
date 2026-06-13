@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ghodkesriyash/Python-Programming/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ghodkesriyash/Python-Programming/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/ghodkesriyash/Python-Programming/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/ghodkesriyash/Python-Programming/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/ghodkesriyash/Python-Programming/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ghodkesriyash/Python-Programming/tree/master/0074-search-a-2d-matrix) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ghodkesriyash/Python-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ghodkesriyash/Python-Programming/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/ghodkesriyash/Python-Programming/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/ghodkesriyash/Python-Programming/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/ghodkesriyash/Python-Programming/tree/master/0205-isomorphic-strings) |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/ghodkesriyash/Python-Programming/tree/master/1833-maximum-ice-cream-bars) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ghodkesriyash/Python-Programming/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
