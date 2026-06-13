@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ghodkesriyash/Python-Programming/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ghodkesriyash/Python-Programming/tree/master/0485-max-consecutive-ones) |
+| [1306-jump-game-iii](https://github.com/ghodkesriyash/Python-Programming/tree/master/1306-jump-game-iii) |
 | [1470-shuffle-the-array](https://github.com/ghodkesriyash/Python-Programming/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ghodkesriyash/Python-Programming/tree/master/1929-concatenation-of-array) |
 | [2126-destroying-asteroids](https://github.com/ghodkesriyash/Python-Programming/tree/master/2126-destroying-asteroids) |
@@ -132,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/ghodkesriyash/Python-Programming/tree/master/1306-jump-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/ghodkesriyash/Python-Programming/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
