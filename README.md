@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ghodkesriyash/Python-Programming/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ghodkesriyash/Python-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/ghodkesriyash/Python-Programming/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ghodkesriyash/Python-Programming/tree/master/0283-move-zeroes) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ghodkesriyash/Python-Programming/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ghodkesriyash/Python-Programming/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ghodkesriyash/Python-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ghodkesriyash/Python-Programming/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/ghodkesriyash/Python-Programming/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/ghodkesriyash/Python-Programming/tree/master/0344-reverse-string) |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ghodkesriyash/Python-Programming/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ghodkesriyash/Python-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
