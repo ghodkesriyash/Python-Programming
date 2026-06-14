@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ghodkesriyash/Python-Programming/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ghodkesriyash/Python-Programming/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ghodkesriyash/Python-Programming/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ghodkesriyash/Python-Programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0268-missing-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/ghodkesriyash/Python-Programming/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/ghodkesriyash/Python-Programming/tree/master/2126-destroying-asteroids) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ghodkesriyash/Python-Programming/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ghodkesriyash/Python-Programming/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ghodkesriyash/Python-Programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0268-missing-number) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/ghodkesriyash/Python-Programming/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2540-minimum-common-value](https://github.com/ghodkesriyash/Python-Programming/tree/master/2540-minimum-common-value) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ghodkesriyash/Python-Programming/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ghodkesriyash/Python-Programming/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/ghodkesriyash/Python-Programming/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ghodkesriyash/Python-Programming/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ghodkesriyash/Python-Programming/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ghodkesriyash/Python-Programming/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ghodkesriyash/Python-Programming/tree/master/0415-add-strings) |
