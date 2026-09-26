@@ -1,16 +1,13 @@
-class Solution:
-    def isUgly(self, n: int) -> bool:
+class Solution(object):
+    def isUgly(self, n):
         if n <= 0:
             return False
-        factors = []
-        d = 2
-        while d * d <= n:
-            while n % d == 0:
-                factors.append(d)
-                n //= d
-            d += 1
-        if n > 1:
-            factors.append(n)
         
-        remaining = [x for x in factors if x not in (2, 3, 5)]
-        return len(remaining) == 0
+        while n % 2 == 0:
+            n //= 2
+        while n % 3 == 0:
+            n //= 3
+        while n % 5 == 0:
+            n //= 5
+        
+        return n == 1
