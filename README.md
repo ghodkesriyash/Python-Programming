@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ghodkesriyash/Python-Programming/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ghodkesriyash/Python-Programming/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ghodkesriyash/Python-Programming/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/ghodkesriyash/Python-Programming/tree/master/0412-fizz-buzz) |
