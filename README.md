@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/ghodkesriyash/Python-Programming/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/ghodkesriyash/Python-Programming/tree/master/0551-student-attendance-record-i) |
 | [0709-to-lower-case](https://github.com/ghodkesriyash/Python-Programming/tree/master/0709-to-lower-case) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ghodkesriyash/Python-Programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/ghodkesriyash/Python-Programming/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/ghodkesriyash/Python-Programming/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ghodkesriyash/Python-Programming/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -216,4 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ghodkesriyash/Python-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ghodkesriyash/Python-Programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ghodkesriyash/Python-Programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
