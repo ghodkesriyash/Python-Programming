@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/ghodkesriyash/Python-Programming/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ghodkesriyash/Python-Programming/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ghodkesriyash/Python-Programming/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3174-clear-digits](https://github.com/ghodkesriyash/Python-Programming/tree/master/3174-clear-digits) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ghodkesriyash/Python-Programming/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/ghodkesriyash/Python-Programming/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/ghodkesriyash/Python-Programming/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ghodkesriyash/Python-Programming/tree/master/2553-separate-the-digits-in-an-array) |
+| [3174-clear-digits](https://github.com/ghodkesriyash/Python-Programming/tree/master/3174-clear-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ghodkesriyash/Python-Programming/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/ghodkesriyash/Python-Programming/tree/master/0496-next-greater-element-i) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ghodkesriyash/Python-Programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3174-clear-digits](https://github.com/ghodkesriyash/Python-Programming/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
