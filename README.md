@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ghodkesriyash/Python-Programming/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ghodkesriyash/Python-Programming/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/ghodkesriyash/Python-Programming/tree/master/0496-next-greater-element-i) |
 | [1306-jump-game-iii](https://github.com/ghodkesriyash/Python-Programming/tree/master/1306-jump-game-iii) |
 | [1470-shuffle-the-array](https://github.com/ghodkesriyash/Python-Programming/tree/master/1470-shuffle-the-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/ghodkesriyash/Python-Programming/tree/master/1833-maximum-ice-cream-bars) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ghodkesriyash/Python-Programming/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ghodkesriyash/Python-Programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/ghodkesriyash/Python-Programming/tree/master/0496-next-greater-element-i) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/ghodkesriyash/Python-Programming/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2540-minimum-common-value](https://github.com/ghodkesriyash/Python-Programming/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/ghodkesriyash/Python-Programming/tree/master/2784-check-if-array-is-good) |
@@ -222,10 +224,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ghodkesriyash/Python-Programming/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/ghodkesriyash/Python-Programming/tree/master/0496-next-greater-element-i) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ghodkesriyash/Python-Programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ghodkesriyash/Python-Programming/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ghodkesriyash/Python-Programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ghodkesriyash/Python-Programming/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
