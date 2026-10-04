@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ghodkesriyash/Python-Programming/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/ghodkesriyash/Python-Programming/tree/master/0678-valid-parenthesis-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/ghodkesriyash/Python-Programming/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/ghodkesriyash/Python-Programming/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ghodkesriyash/Python-Programming/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/ghodkesriyash/Python-Programming/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/ghodkesriyash/Python-Programming/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/ghodkesriyash/Python-Programming/tree/master/0551-student-attendance-record-i) |
+| [0678-valid-parenthesis-string](https://github.com/ghodkesriyash/Python-Programming/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/ghodkesriyash/Python-Programming/tree/master/0709-to-lower-case) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ghodkesriyash/Python-Programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/ghodkesriyash/Python-Programming/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -227,15 +229,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ghodkesriyash/Python-Programming/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/ghodkesriyash/Python-Programming/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/ghodkesriyash/Python-Programming/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ghodkesriyash/Python-Programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3174-clear-digits](https://github.com/ghodkesriyash/Python-Programming/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ghodkesriyash/Python-Programming/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ghodkesriyash/Python-Programming/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ghodkesriyash/Python-Programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ghodkesriyash/Python-Programming/tree/master/0496-next-greater-element-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/ghodkesriyash/Python-Programming/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
