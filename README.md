@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/ghodkesriyash/Python-Programming/tree/master/0551-student-attendance-record-i) |
 | [0678-valid-parenthesis-string](https://github.com/ghodkesriyash/Python-Programming/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/ghodkesriyash/Python-Programming/tree/master/0709-to-lower-case) |
+| [0856-score-of-parentheses](https://github.com/ghodkesriyash/Python-Programming/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ghodkesriyash/Python-Programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/ghodkesriyash/Python-Programming/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/ghodkesriyash/Python-Programming/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ghodkesriyash/Python-Programming/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/ghodkesriyash/Python-Programming/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/ghodkesriyash/Python-Programming/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/ghodkesriyash/Python-Programming/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ghodkesriyash/Python-Programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3174-clear-digits](https://github.com/ghodkesriyash/Python-Programming/tree/master/3174-clear-digits) |
 ## Bracket Sequences
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ghodkesriyash/Python-Programming/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ghodkesriyash/Python-Programming/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/ghodkesriyash/Python-Programming/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ghodkesriyash/Python-Programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
