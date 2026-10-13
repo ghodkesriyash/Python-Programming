@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/ghodkesriyash/Python-Programming/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ghodkesriyash/Python-Programming/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ghodkesriyash/Python-Programming/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ghodkesriyash/Python-Programming/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/ghodkesriyash/Python-Programming/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ghodkesriyash/Python-Programming/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ghodkesriyash/Python-Programming/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ghodkesriyash/Python-Programming/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/ghodkesriyash/Python-Programming/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2784-check-if-array-is-good](https://github.com/ghodkesriyash/Python-Programming/tree/master/2784-check-if-array-is-good) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ghodkesriyash/Python-Programming/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ghodkesriyash/Python-Programming/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
