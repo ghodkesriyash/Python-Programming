@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ghodkesriyash/Python-Programming/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ghodkesriyash/Python-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ghodkesriyash/Python-Programming/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/ghodkesriyash/Python-Programming/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/ghodkesriyash/Python-Programming/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/ghodkesriyash/Python-Programming/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ghodkesriyash/Python-Programming/tree/master/0074-search-a-2d-matrix) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ghodkesriyash/Python-Programming/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/ghodkesriyash/Python-Programming/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/ghodkesriyash/Python-Programming/tree/master/0678-valid-parenthesis-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/ghodkesriyash/Python-Programming/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/ghodkesriyash/Python-Programming/tree/master/2126-destroying-asteroids) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ghodkesriyash/Python-Programming/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/ghodkesriyash/Python-Programming/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
