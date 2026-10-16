@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ghodkesriyash/Python-Programming/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/ghodkesriyash/Python-Programming/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/ghodkesriyash/Python-Programming/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ghodkesriyash/Python-Programming/tree/master/0326-power-of-three) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ghodkesriyash/Python-Programming/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/ghodkesriyash/Python-Programming/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ghodkesriyash/Python-Programming/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ghodkesriyash/Python-Programming/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/ghodkesriyash/Python-Programming/tree/master/1929-concatenation-of-array) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ghodkesriyash/Python-Programming/tree/master/0258-add-digits) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ghodkesriyash/Python-Programming/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting Sort
 |  |
