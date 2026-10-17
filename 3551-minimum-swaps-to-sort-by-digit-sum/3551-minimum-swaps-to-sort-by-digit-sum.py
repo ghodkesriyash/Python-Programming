@@ -1,14 +1,13 @@
 class Solution:
     def minSwaps(self, nums: List[int]) -> int:
-        size = len(nums)
-        sums = [0] * size
-        for x in range(size) :
+        sums = [0] * len(nums)
+        for x in range(len(nums)) :
                 sums[x] = sum(int(y) for y in str(nums[x]))
         pairs = list(zip(sums, nums))
-        order = sorted(range(size), key=lambda i: pairs[i])
-        visited = [False] * size
+        order = sorted(range(len(nums)), key=lambda i: pairs[i])
+        visited = [False] * len(nums)
         swaps = 0
-        for i in range(size):
+        for i in range(len(nums)):
             if visited[i] or order[i] == i:
                 continue
             j, length = i, 0
