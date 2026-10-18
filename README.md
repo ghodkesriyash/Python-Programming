@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ghodkesriyash/Python-Programming/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ghodkesriyash/Python-Programming/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/ghodkesriyash/Python-Programming/tree/master/0541-reverse-string-ii) |
 | [2540-minimum-common-value](https://github.com/ghodkesriyash/Python-Programming/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ghodkesriyash/Python-Programming/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/ghodkesriyash/Python-Programming/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/ghodkesriyash/Python-Programming/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/ghodkesriyash/Python-Programming/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/ghodkesriyash/Python-Programming/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/ghodkesriyash/Python-Programming/tree/master/0551-student-attendance-record-i) |
 | [0678-valid-parenthesis-string](https://github.com/ghodkesriyash/Python-Programming/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/ghodkesriyash/Python-Programming/tree/master/0709-to-lower-case) |
