@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ghodkesriyash/Python-Programming/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ghodkesriyash/Python-Programming/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/ghodkesriyash/Python-Programming/tree/master/0289-game-of-life) |
 | [0485-max-consecutive-ones](https://github.com/ghodkesriyash/Python-Programming/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ghodkesriyash/Python-Programming/tree/master/0496-next-greater-element-i) |
 | [0877-stone-game](https://github.com/ghodkesriyash/Python-Programming/tree/master/0877-stone-game) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ghodkesriyash/Python-Programming/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ghodkesriyash/Python-Programming/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/ghodkesriyash/Python-Programming/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/ghodkesriyash/Python-Programming/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ghodkesriyash/Python-Programming/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/ghodkesriyash/Python-Programming/tree/master/1929-concatenation-of-array) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ghodkesriyash/Python-Programming/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ghodkesriyash/Python-Programming/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/ghodkesriyash/Python-Programming/tree/master/0289-game-of-life) |
 ## Enumeration
 |  |
 | ------- |
