@@ -1,7 +1,14 @@
 class Solution:
-    def countDaysTogether(self, a: str, b: str, c: str, d: str) -> int:
-        def f(s):
-            m, q = int(s[:2]), int(s[3:])
-            return (275 * m) // 9 - 2 * ((m + 9) // 12) + q - 30
+    def countDaysTogether(self, arriveAlice: str, leaveAlice: str, arriveBob: str, leaveBob: str) -> int:
+        days = {
+            1: 0, 2: 31, 3: 59, 4: 90, 5: 120, 6: 151,
+            7: 181, 8: 212, 9: 243, 10: 273, 11: 304, 12: 334
+        }
+        def convert(date):
+            return days[int(date[:2])] + int(date[3:])
 
-        return max(0, min(f(b), f(d)) - max(f(a), f(c)) + 1)
+        start = max(convert(arriveAlice), convert(arriveBob))
+        end = min(convert(leaveAlice), convert(leaveBob))
+
+        return max(0, end - start + 1) 
+        
