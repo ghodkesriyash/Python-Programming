@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ghodkesriyash/Python-Programming/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ghodkesriyash/Python-Programming/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ghodkesriyash/Python-Programming/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ghodkesriyash/Python-Programming/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ghodkesriyash/Python-Programming/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ghodkesriyash/Python-Programming/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0268-missing-number) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ghodkesriyash/Python-Programming/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Divide and Conquer
 |  |
 | ------- |
