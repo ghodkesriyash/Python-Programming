@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ghodkesriyash/Python-Programming/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ghodkesriyash/Python-Programming/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/ghodkesriyash/Python-Programming/tree/master/0278-first-bad-version) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ghodkesriyash/Python-Programming/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ghodkesriyash/Python-Programming/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/ghodkesriyash/Python-Programming/tree/master/2540-minimum-common-value) |
@@ -337,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ghodkesriyash/Python-Programming/tree/master/0877-stone-game) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ghodkesriyash/Python-Programming/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
