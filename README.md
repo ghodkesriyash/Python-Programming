@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ghodkesriyash/Python-Programming/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ghodkesriyash/Python-Programming/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/ghodkesriyash/Python-Programming/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/ghodkesriyash/Python-Programming/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ghodkesriyash/Python-Programming/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ghodkesriyash/Python-Programming/tree/master/0344-reverse-string) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ghodkesriyash/Python-Programming/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ghodkesriyash/Python-Programming/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/ghodkesriyash/Python-Programming/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/ghodkesriyash/Python-Programming/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ghodkesriyash/Python-Programming/tree/master/0263-ugly-number) |
