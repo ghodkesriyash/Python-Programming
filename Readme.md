@@ -4,6 +4,15 @@ This repository serves as my personal programming journal, tracking my growth as
 
 ---
 
+## Repository Structure
+
+| Folder | Contents |
+| ------ | -------- |
+| [`Assignments/`](Assignments) | IITM BSc Data Science & Applications Python assignments |
+| [`LeetCode/`](LeetCode) | LeetCode solutions, synced via LeetHub |
+
+---
+
 ## IITM BSc Data Science & Applications — Assignments
 
 Solutions to Python programming assignments from the IITM BSc Data Science & Applications program. Covers the fundamentals of Python starting from basic conditionals and loops, moving through functions, data structures (lists, sets, dictionaries), comprehensions, functional programming tools like map/filter/zip, 2D matrix problems, object oriented programming, and a brief introduction to NumPy.
