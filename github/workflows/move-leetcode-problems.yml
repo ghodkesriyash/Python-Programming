@@ -8,7 +8,7 @@ permissions:
   contents: write
 
 env:
-  TARGET_DIR: leetcode   # <- change this to your folder name
+  TARGET_DIR: LeetCode # <- change this to your folder name
 
 jobs:
   move:
