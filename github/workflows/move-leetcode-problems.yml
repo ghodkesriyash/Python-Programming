@@ -2,7 +2,8 @@ name: Move LeetHub problems into folder
 
 on:
   push:
-    branches: [main]   # change to master if that's your default branch
+    branches: [main]
+  workflow_dispatch:n]   # change to master if that's your default branch
 
 permissions:
   contents: write
